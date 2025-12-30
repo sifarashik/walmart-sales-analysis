@@ -30,8 +30,6 @@ The analysis is performed using **Python, SQLite, and data visualization techniq
 
 ---
 
----
-
 ## 📊 Dataset Description
 The dataset contains Walmart sales transaction details including:
 - Branch
@@ -65,19 +63,23 @@ The dataset contains Walmart sales transaction details including:
 ## 🖼️ Project Output Charts
 
 ### Product Line Sales
-<img src="charts/product_sales.png" width="500" align="center"/>
+<img width="1000" height="600" alt="product_sales" src="https://github.com/user-attachments/assets/16bbd0c5-b5d6-412a-8c89-63bfc4ff7ae2" />
 
 ### Branch-wise Sales
-<img src="charts/branch_sales.png" width="500" align="center"/>
+<img width="600" height="400" alt="branch_sales" src="https://github.com/user-attachments/assets/cf1610d8-259c-483b-9990-06521b57097d" />
+
 
 ### Sales Distribution
-<img src="charts/sales_distribution.png" width="500" align="center"/>
+<img width="800" height="800" alt="sales_distribution" src="https://github.com/user-attachments/assets/02635ec3-e42d-4b6a-9906-5b73fd43bf80" />
+
 
 ### Monthly Sales Trend
-<img src="charts/monthly_sales_trend.png" width="500" align="center"/>
+<img width="1000" height="600" alt="monthly_sales_trend" src="https://github.com/user-attachments/assets/b38e577e-9c89-4815-8e6f-e7988fceaa54" />
+
 
 ### Rating vs Sales
-<img src="charts/rating_vs_sales.png" width="500" align="center"/>
+<img width="800" height="600" alt="rating_vs_sales" src="https://github.com/user-attachments/assets/61afee4d-985c-4c49-a844-12993cc0e910" />
+
 
 ---
 
@@ -106,4 +108,4 @@ The dataset contains Walmart sales transaction details including:
 ## 👩‍💻 Author
 **Sifa Parveen N**  
 B.Tech Information Technology  
-Aspiring Data Analyst
+
